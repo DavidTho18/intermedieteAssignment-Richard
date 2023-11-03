@@ -257,6 +257,10 @@ footer {
         width: auto;
     }
 
+    .hero{
+        width: auto;
+    }
+
     .main {
         width: auto;
     }
@@ -285,11 +289,13 @@ footer {
     .wrapper{
         width: auto;
     }
-
+    
+    .hero{
+            width: auto;
+        }
     .main {
         width: auto;
     }
-
 
     .header2 >h1 {
         padding: auto;
